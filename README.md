@@ -1,0 +1,2 @@
+# myFirstGit
+Amazing GitHub 
